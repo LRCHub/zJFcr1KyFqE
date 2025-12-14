@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "We Are Never Ever Getting Back Together (Taylor's Version)",
+  "base_artist": "テイラー・スウィフト",
+  "createdAt": "2025-12-14T06:24:55.475749Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "We Are Never Ever Getting Back Together (Taylor's Version)",
+      "artist": "TaylorSwiftVEVO",
+      "has_synced": true,
+      "path": "select/01_We_Are_Never_Ever_Getting_Back_Together_(Taylor's_Version)_TaylorSwiftVEVO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "We Are Never Ever Getting Back Together (Taylor's version)",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/02_We_Are_Never_Ever_Getting_Back_Together_(Taylor's_version)_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "We Are Never Ever Getting Back Together (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/03_We_Are_Never_Ever_Getting_Back_Together_(Taylor's_Version)_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "We Are Never Ever Getting Back Together (Taylor's Version)",
+      "artist": "Swift, Taylor",
+      "has_synced": true,
+      "path": "select/04_We_Are_Never_Ever_Getting_Back_Together_(Taylor's_Version)_Swift,_Taylor.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "We Are Never Ever Getting Back Together (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/05_We_Are_Never_Ever_Getting_Back_Together_(Taylor's_Version)_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "We Are Never Ever Getting Back Together (Taylor's Version) (L...",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/06_We_Are_Never_Ever_Getting_Back_Together_(Taylor's_Version)_(L..._Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "We Are Never Ever Getting Back Together (Taylor’s version)",
+      "artist": "Country",
+      "has_synced": true,
+      "path": "select/07_We_Are_Never_Ever_Getting_Back_Together_(Taylor’s_version)_Country.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "We Are Never Ever Getting Back Together (Taylor's Version)",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/08_We_Are_Never_Ever_Getting_Back_Together_(Taylor's_Version)_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "We Are Never Ever Getting Back Together (Taylor’s version)",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/09_We_Are_Never_Ever_Getting_Back_Together_(Taylor’s_version)_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "We Are Never Ever Getting Back Together (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/10_We_Are_Never_Ever_Getting_Back_Together_(Taylor's_Version)_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "We Are Never Ever Getting Back Together (Taylor's Version) (L...",
+      "artist": "Taylor Swift",
+      "has_synced": false,
+      "path": "select/11_We_Are_Never_Ever_Getting_Back_Together_(Taylor's_Version)_(L..._Taylor_Swift.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "We Are Never Ever Getting Back Together (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "has_synced": false,
+      "path": "select/pl_01_We_Are_Never_Ever_Getting_Back_Together_(Taylor's_Version)_Taylor_Swift.txt"
+    }
+  ]
+}
